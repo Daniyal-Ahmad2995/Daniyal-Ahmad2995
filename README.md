@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniyal-Ahmad
 - 👀 I’m interested in to develop the project which are related to computer science
 - 🌱 I’m currently student of fast university
-- 📫 How to reach me through email njcb2995@gmail.com
+- 📫 How to reach me through email njcb2995cp2@gmail.com
   
 
 <!---
