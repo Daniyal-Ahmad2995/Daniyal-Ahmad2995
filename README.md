@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Daniyal-Ahmad
-- 👀 I’m interested in to develop the project which are related to computer science
-- 🌱 I’m currently student of fast university
-- 📫 How to reach me through email njcb2995cp2@gmail.com
-  
+# 👋 Hi, I'm Daniyal Ahmad
 
-<!---
-Daniyal-Ahmad2995/Daniyal-Ahmad2995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 CS Student at FAST NUCES  
+💡 Interested in Data Science, AI & ML  
+📊 Working on real-world data projects  
+📬 Reach me: njcb2995cp2@gmail.com  
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+## 📌 Featured Projects
+- 🚗 [PakWheels Car Price Analysis](your-link)
+- 📺 [Pakistan Media Bias Analysis](your-link)
+- 🎓 [Student Marks Predictor](your-link)
